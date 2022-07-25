@@ -1,0 +1,18 @@
+.Form{
+    margin-top: 50px;
+    padding-top:50px ;
+    margin-left: 520px;
+   box-shadow:0px 0px 10px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    width: 780px;
+    height: 600px;
+}
+
+.Form input{
+    height:50px;
+    width: 680px;
+    border-radius: 5px;
+}
